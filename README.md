@@ -2,7 +2,7 @@
 
 I'm Jesse! I'm a Software Architect & a total tech geek! I specialize in cloud architecture & back-end systems, but I love working on dev tools to make life better for other devs.
 
-My GitHub is not necessarily a showcase of my cleanest code (I work on some of these side projects in my spare time), but it is a a portfolio of some of my passion projects.
+My GitHub is not necessarily a showcase of my cleanest code (I work on some of these side projects in my spare time), but it is a portfolio of some of my passion projects.
 
 Some of my ❤️ projects are:
 - [Pineapple](https://github.com/TotalTechGeek/pineapple), an inline software testing framework to make testing sweet!
