@@ -7,7 +7,7 @@ My GitHub is not necessarily a showcase of my cleanest code (I work on some of t
 Some of my ❤️ projects are:
 - [Pineapple](https://github.com/TotalTechGeek/pineapple), an inline software testing framework to make testing sweet!
 - [JSON Logic Engine](https://github.com/TotalTechGeek/json-logic-engine), a fast, sandboxed logic engine to set up powerful configurations.
-- [Pictoprime](https://github.com/TotalTechGeek/pictoprime), my picture to prime generator featured in a Matt Parker video! 
+- [Pictoprime](https://github.com/TotalTechGeek/pictoprime), my picture to prime generator featured in a [Matt Parker video](https://youtu.be/dET2l8l3upU?t=864)! 
 
 
 If you're looking for some of my cleaner projects:
