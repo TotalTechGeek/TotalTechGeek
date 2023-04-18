@@ -4,8 +4,6 @@ I'm Jesse! I'm a Software Architect & a total tech geek! I specialize in cloud a
 
 My GitHub is not necessarily a showcase of my cleanest code (I work on some of these side projects in my spare time), but it is a a portfolio of some of my passion projects.
 
----
-
 Some of my ❤️ projects are:
 - [Pineapple](https://github.com/TotalTechGeek/pineapple), an inline software testing framework to make testing sweet!
 - [JSON Logic Engine](https://github.com/TotalTechGeek/json-logic-engine), a fast, sandboxed logic engine to set up powerful configurations.
