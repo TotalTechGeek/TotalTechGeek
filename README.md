@@ -5,8 +5,9 @@ I'm Jesse! I'm a Software Architect & a total tech geek! I specialize in cloud a
 My GitHub is not necessarily a showcase of my cleanest code (I work on some of these side projects in my spare time), but it is a portfolio of some of my passion projects.
 
 Some of my ❤️ projects are:
+- [handlebars-jle](https://github.com/TotalTechGeek/handlebars-jle), a ~25x faster implementation of Handlebars with support for eval-less execution & async!
+- [JSON Logic Engine](https://github.com/json-logic/json-logic-engine), a fast, sandboxed logic engine to set up powerful configurations.
 - [Pineapple](https://github.com/TotalTechGeek/pineapple), an inline software testing framework to make testing sweet!
-- [JSON Logic Engine](https://github.com/TotalTechGeek/json-logic-engine), a fast, sandboxed logic engine to set up powerful configurations.
 - [Pictoprime](https://github.com/TotalTechGeek/pictoprime), my picture to prime generator featured in a [Matt Parker video](https://youtu.be/dET2l8l3upU?t=864)! 
 
 
