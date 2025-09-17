@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I'm Jesse! I'm a Software Architect & a total tech geek! I specialize in cloud architecture & back-end systems, but I love working on dev tools to make life better for other devs.
+I'm Jesse! I'm a VP of Engineering at LeoSight & a total tech geek! I specialize in cloud architecture & back-end systems, but I love working on dev tools to make life better for other devs.
 
 My GitHub is not necessarily a showcase of my cleanest code (I work on some of these side projects in my spare time), but it is a portfolio of some of my passion projects.
 
